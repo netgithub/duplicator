@@ -1,2 +1,2 @@
 # duplicator
-![duplicator](https://github.com/user-attachments/assets/da67eb90-f252-48a4-9c90-c341e48c8a48)
+![duplicator](https://github.com/user-attachments/assets/035f1ff7-31a9-414c-a34c-30cc18e2dcad)
